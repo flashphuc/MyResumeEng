@@ -35,6 +35,30 @@ body {
   margin-top: 5px;
 }
 
+.btn-cv {
+  background-color: green; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  animation: UpDown 1s linear infinite;
+  position: absolute;
+  left: 50;
+}
+@keyframes UpDown {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
 .goals .af {
   width: 145px;
   height: 65px;
