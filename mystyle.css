@@ -150,7 +150,7 @@ ul {
 }
 
 .textInHoa {
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 /* .header__qrcode .af {
