@@ -8,10 +8,15 @@ body {
   /* background: conic-gradient(white, powderblue); */
 }
 
+#header {
+  margin-bottom: 5rem;
+}
+
 #container {
   margin: 0 auto;
-  background: conic-gradient(white, powderblue);
+  /* background: conic-gradient(white, powderblue); */
   /* background-image: url("background.png"); */
+  /* background-color: whitesmoke; */
   height: 100%;
   width: 800px;
   padding: 0;
