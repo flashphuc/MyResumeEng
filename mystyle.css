@@ -32,7 +32,8 @@ body {
   width: 145px;
   height: 158px;
 
-  border-radius: 0%;
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 30%;
   /* background-color: #555; */
 }
 
